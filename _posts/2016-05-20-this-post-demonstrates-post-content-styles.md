@@ -5,8 +5,12 @@ categories: junk
 author: "AB"
 meta: "Springfield"
 ---
-
-$$ e^{i \theta} = cos(\theta) + i\ sin(\theta), \theta \in \mathbb{R} $$
+$$
+\begin{align}
+e^{i \theta} &= cos(\theta) + i\ sin(\theta),\quad \theta \in \mathbb{R}, \\
+\mathbf{A} \mathbf{x} &= \mathbf{b}'
+\end{align}
+$$
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
