@@ -7,7 +7,7 @@ meta: "Springfield"
 ---
 $$
 \begin{align}
-e^{i \theta} &= cos(\theta) + i\ sin(\theta),\quad \theta \in \mathbb{R}, \\
+e^{i \theta} &= \cos{\theta} + i\ \sin{\theta},\quad \theta \in \mathbb{R}, \\
 \mathbf{A} \mathbf{x} &= \mathbf{b}'
 \end{align}
 $$
