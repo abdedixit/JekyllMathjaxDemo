@@ -2,9 +2,11 @@
 layout: post
 title: "This post demonstrates post content styles"
 categories: junk
-author: "Bart Simpson"
+author: "AB"
 meta: "Springfield"
 ---
+
+$$ e^{i \theta} = cos(\theta) + i\ sin(\theta), \theta \in \mathbb{R} $$
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
